@@ -23,4 +23,4 @@ The objective of this project is to perform exploratory analysis on the dataset,
 
 
 
- *(These insights are accurate as per the dataset that was recorded in its due updation)
+ *(These insights are accurate as per the dataset in its due updation)
